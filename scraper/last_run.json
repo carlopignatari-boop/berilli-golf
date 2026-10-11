@@ -13,8 +13,8 @@
       "var": 0.0,
       "pending": true,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/081153eb-9bc5-f111-aaad-70a8a5390dfa",
-      "n": 1,
-      "top8": false
+      "top8": false,
+      "n": 1
     },
     {
       "data": "04/10/2026",
@@ -29,8 +29,8 @@
       "var": 0.5,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/2a323e20-1dc0-f111-aaad-6045bd8d0cd6",
-      "n": 2,
-      "top8": false
+      "top8": false,
+      "n": 2
     },
     {
       "data": "01/10/2026",
@@ -45,8 +45,8 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/c819de9f-adbd-f111-aaae-6045bd96fca1",
-      "n": 3,
-      "top8": false
+      "top8": false,
+      "n": 3
     },
     {
       "data": "27/09/2026",
@@ -61,8 +61,8 @@
       "var": -0.3,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/3fafbfcd-94ba-f111-aaae-000d3aa9a289",
-      "n": 4,
-      "top8": true
+      "top8": true,
+      "n": 4
     },
     {
       "data": "26/09/2026",
@@ -77,8 +77,8 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/1f23f403-cab9-f111-aaae-000d3aa9a289",
-      "n": 5,
-      "top8": true
+      "top8": true,
+      "n": 5
     },
     {
       "data": "23/09/2026",
@@ -93,8 +93,8 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/4b5f6916-56b7-f111-aaac-000d3aa9a289",
-      "n": 6,
-      "top8": true
+      "top8": true,
+      "n": 6
     },
     {
       "data": "19/09/2026",
@@ -109,8 +109,8 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/213bfa58-c2b4-f111-aaac-7c1e5228d506",
-      "n": 7,
-      "top8": false
+      "top8": false,
+      "n": 7
     },
     {
       "data": "16/09/2026",
@@ -125,8 +125,8 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/333aca75-e0b1-f111-aaac-000d3aa9a289",
-      "n": 8,
-      "top8": false
+      "top8": false,
+      "n": 8
     },
     {
       "data": "12/09/2026",
@@ -141,8 +141,8 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/f09a068c-c0ae-f111-aaac-70a8a5a067d8",
-      "n": 9,
-      "top8": false
+      "top8": false,
+      "n": 9
     },
     {
       "data": "29/08/2026",
@@ -157,8 +157,8 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/463969fb-cca3-f111-b8de-70a8a5a06624",
-      "n": 10,
-      "top8": false
+      "top8": false,
+      "n": 10
     },
     {
       "data": "20/08/2026",
@@ -173,8 +173,8 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/8954fb7c-999c-f111-b8db-7c1e524eabf7",
-      "n": 11,
-      "top8": false
+      "top8": false,
+      "n": 11
     },
     {
       "data": "09/08/2026",
@@ -189,8 +189,8 @@
       "var": -0.5,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/9e959940-f293-f111-8075-7c1e5285a3ef",
-      "n": 12,
-      "top8": true
+      "top8": true,
+      "n": 12
     },
     {
       "data": "08/08/2026",
@@ -205,8 +205,8 @@
       "var": -0.1,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/010dad15-2e93-f111-8075-000d3a2da5c0",
-      "n": 13,
-      "top8": true
+      "top8": true,
+      "n": 13
     },
     {
       "data": "26/07/2026",
@@ -221,8 +221,8 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/b76bfbb6-9189-f111-ab0f-7c1e524eabf7",
-      "n": 14,
-      "top8": false
+      "top8": false,
+      "n": 14
     },
     {
       "data": "25/07/2026",
@@ -237,8 +237,8 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/61d62f79-3c88-f111-ab0f-000d3a2da5c0",
-      "n": 15,
-      "top8": false
+      "top8": false,
+      "n": 15
     },
     {
       "data": "19/07/2026",
@@ -253,8 +253,8 @@
       "var": -0.4,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/23ea6491-7f83-f111-ab0f-000d3a4ccb50",
-      "n": 16,
-      "top8": true
+      "top8": true,
+      "n": 16
     },
     {
       "data": "11/07/2026",
@@ -269,8 +269,8 @@
       "var": -0.3,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/55a5c9c9-3a7d-f111-ab0e-000d3a213cad",
-      "n": 17,
-      "top8": true
+      "top8": true,
+      "n": 17
     },
     {
       "data": "09/07/2026",
@@ -285,8 +285,8 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/3acc248a-a97b-f111-ab0e-000d3a4cc9ea",
-      "n": 18,
-      "top8": false
+      "top8": false,
+      "n": 18
     },
     {
       "data": "28/06/2026",
@@ -301,8 +301,8 @@
       "var": 0.3,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/d535a01b-0173-f111-ab0d-7ced8d5ad87d",
-      "n": 19,
-      "top8": false
+      "top8": false,
+      "n": 19
     },
     {
       "data": "27/06/2026",
@@ -317,17 +317,33 @@
       "var": 0.3,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/f9f8037e-4072-f111-ab0e-6045bdf30a82",
-      "n": 20,
-      "top8": true
+      "top8": false,
+      "n": 20
+    },
+    {
+      "data": "21/06/2026",
+      "gara": "DOMINA GOLF TELEVISION IN TOUR 2026",
+      "circolo": "MODENA",
+      "stbl": "36",
+      "ags": 99.0,
+      "pcc": 0.0,
+      "sd": 23.8,
+      "idxV": 24.1,
+      "idxN": 23.8,
+      "var": -0.3,
+      "pending": false,
+      "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/919eee50-8e6d-f111-ab0d-00224882a8dd",
+      "top8": true,
+      "n": 21
     }
   ],
   "stats": {
     "n_best8": 8,
-    "avg_sd": 23.45,
-    "avg_stbl": 36.1,
+    "avg_sd": 23.34,
+    "avg_stbl": 36.2,
     "best_sd": 20.3,
     "idx_fig": 23.3,
-    "theoretical_idx": 22.5
+    "theoretical_idx": 22.4
   },
-  "updated_at": "11/10/2026 21:18"
+  "updated_at": "11/10/2026 21:30"
 }

@@ -53,7 +53,9 @@ def parse_rows(page):
     rows = page.query_selector_all("table tbody tr")
     print(f"Righe totali: {len(rows)}")
 
-    gare = []
+    pending_rows = []  # Valida=S ma SD non ancora elaborato (mostrate ma fuori perimetro)
+    gare = []          # Valida=S con SD disponibile (perimetro reale FIG, max 20)
+
     for row in rows:
         cells = [td.inner_text().strip() for td in row.query_selector_all("td")]
         if len(cells) < 20:
@@ -69,35 +71,45 @@ def parse_rows(page):
 
         link_el = row.query_selector("td:first-child a")
         link = FIG_URL + link_el.get_attribute("href") if link_el else ""
+        sd_raw = cells[18].strip()
 
-        gare.append({
+        entry = {
             "data":    cells[0].strip(),
             "gara":    cells[3].strip(),
             "circolo": cells[6].strip(),
             "stbl":    cells[15].strip(),
             "ags":     to_float(cells[16]),
             "pcc":     to_float(cells[17]) if cells[17].strip() else None,
-            "sd":      to_float(cells[18]) if cells[18].strip() else None,
+            "sd":      to_float(sd_raw) if sd_raw else None,
             "idxV":    to_float(cells[21]) if len(cells) > 21 else None,
             "idxN":    to_float(cells[22]) if len(cells) > 22 else None,
             "var":     to_float(cells[23]) if len(cells) > 23 else None,
-            "pending": not bool(cells[18].strip()),
+            "pending": not bool(sd_raw),
             "link":    link,
-        })
-        if len(gare) >= 20:
-            break
+            "top8":    False,
+        }
 
-    print(f"Gare Valida=S: {len(gare)}")
+        if not sd_raw:
+            # SD non elaborato: mostrata in cima ma non conta nel perimetro
+            pending_rows.append(entry)
+        else:
+            gare.append(entry)
+            if len(gare) >= 20:
+                break
 
-    for i, g in enumerate(gare):
+    # Tabella = pending in cima + prime 20 con SD elaborato
+    all_rows = pending_rows + gare
+    for i, g in enumerate(all_rows):
         g["n"] = i + 1
 
-    with_sd = sorted([g for g in gare if g["sd"] is not None], key=lambda x: x["sd"])
-    top8_ids = {g["n"] for g in with_sd[:8]}
-    for g in gare:
+    # Top 8 calcolate solo sul perimetro reale (20 gare con SD)
+    top8_ids = {g["n"] for g in sorted(gare, key=lambda x: x["sd"])[:8]}
+    for g in all_rows:
         g["top8"] = g["n"] in top8_ids
 
-    return gare
+    print(f"Pending (SD non elaborato): {len(pending_rows)}")
+    print(f"Gare nel perimetro FIG: {len(gare)}")
+    return all_rows
 
 
 def calc_stats(gare):
