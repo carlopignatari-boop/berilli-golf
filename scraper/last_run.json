@@ -6,17 +6,17 @@
       "circolo": "MODENA",
       "stbl": "34",
       "ags": 100.0,
-      "pcc": null,
-      "sd": null,
-      "sd_est": 24.7,
+      "pcc": 1.0,
+      "sd": 23.8,
+      "sd_est": null,
       "cr": 72.2,
       "sr": 127.0,
       "idxV": 23.3,
       "idxN": 23.3,
       "var": 0.0,
-      "pending": true,
+      "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/081153eb-9bc5-f111-aaad-70a8a5390dfa",
-      "top8": false,
+      "top8": true,
       "n": 1
     },
     {
@@ -379,34 +379,15 @@
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/f9f8037e-4072-f111-ab0e-6045bdf30a82",
       "top8": false,
       "n": 20
-    },
-    {
-      "data": "21/06/2026",
-      "gara": "DOMINA GOLF TELEVISION IN TOUR 2026",
-      "circolo": "MODENA",
-      "stbl": "36",
-      "ags": 99.0,
-      "pcc": 0.0,
-      "sd": 23.8,
-      "sd_est": null,
-      "cr": 72.2,
-      "sr": 127.0,
-      "idxV": 24.1,
-      "idxN": 23.8,
-      "var": -0.3,
-      "pending": false,
-      "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/919eee50-8e6d-f111-ab0d-00224882a8dd",
-      "top8": true,
-      "n": 21
     }
   ],
   "stats": {
     "n_best8": 8,
     "avg_sd": 23.34,
-    "avg_stbl": 36.2,
+    "avg_stbl": 36.0,
     "best_sd": 20.3,
     "idx_fig": 23.3,
     "theoretical_idx": 22.4
   },
-  "updated_at": "11/10/2026 21:36"
+  "updated_at": "12/10/2026 04:55"
 }
