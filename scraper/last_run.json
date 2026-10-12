@@ -383,11 +383,11 @@
   ],
   "stats": {
     "n_best8": 8,
-    "avg_sd": 23.34,
+    "avg_sd": 23.3,
     "avg_stbl": 36.0,
     "best_sd": 20.3,
     "idx_fig": 23.3,
-    "theoretical_idx": 22.4
+    "theoretical_idx": 23.3
   },
-  "updated_at": "12/10/2026 04:55"
+  "updated_at": "12/10/2026 05:07"
 }
