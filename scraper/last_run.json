@@ -1,6 +1,25 @@
 {
   "gare": [
     {
+      "data": "15/10/2026",
+      "gara": "WEEKLY BPER BANCA CUP - 11^ PROVA",
+      "circolo": "MODENA",
+      "stbl": "33",
+      "ags": 101.0,
+      "pcc": 0.0,
+      "sd": 25.6,
+      "sd_est": null,
+      "cr": 72.2,
+      "sr": 127.0,
+      "idxV": 23.3,
+      "idxN": 23.3,
+      "var": 0.0,
+      "pending": false,
+      "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/ff4e1277-c4c8-f111-aaad-7ced8d8bfeb7",
+      "top8": false,
+      "n": 1
+    },
+    {
       "data": "11/10/2026",
       "gara": "INVITATIONAL PENSKECARS",
       "circolo": "MODENA",
@@ -17,7 +36,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/081153eb-9bc5-f111-aaad-70a8a5390dfa",
       "top8": true,
-      "n": 1
+      "n": 2
     },
     {
       "data": "04/10/2026",
@@ -36,7 +55,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/2a323e20-1dc0-f111-aaad-6045bd8d0cd6",
       "top8": false,
-      "n": 2
+      "n": 3
     },
     {
       "data": "01/10/2026",
@@ -55,7 +74,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/c819de9f-adbd-f111-aaae-6045bd96fca1",
       "top8": false,
-      "n": 3
+      "n": 4
     },
     {
       "data": "27/09/2026",
@@ -74,7 +93,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/3fafbfcd-94ba-f111-aaae-000d3aa9a289",
       "top8": true,
-      "n": 4
+      "n": 5
     },
     {
       "data": "26/09/2026",
@@ -93,7 +112,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/1f23f403-cab9-f111-aaae-000d3aa9a289",
       "top8": true,
-      "n": 5
+      "n": 6
     },
     {
       "data": "23/09/2026",
@@ -112,7 +131,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/4b5f6916-56b7-f111-aaac-000d3aa9a289",
       "top8": true,
-      "n": 6
+      "n": 7
     },
     {
       "data": "19/09/2026",
@@ -131,7 +150,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/213bfa58-c2b4-f111-aaac-7c1e5228d506",
       "top8": false,
-      "n": 7
+      "n": 8
     },
     {
       "data": "16/09/2026",
@@ -150,7 +169,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/333aca75-e0b1-f111-aaac-000d3aa9a289",
       "top8": false,
-      "n": 8
+      "n": 9
     },
     {
       "data": "12/09/2026",
@@ -169,7 +188,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/f09a068c-c0ae-f111-aaac-70a8a5a067d8",
       "top8": false,
-      "n": 9
+      "n": 10
     },
     {
       "data": "29/08/2026",
@@ -188,7 +207,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/463969fb-cca3-f111-b8de-70a8a5a06624",
       "top8": false,
-      "n": 10
+      "n": 11
     },
     {
       "data": "20/08/2026",
@@ -207,7 +226,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/8954fb7c-999c-f111-b8db-7c1e524eabf7",
       "top8": false,
-      "n": 11
+      "n": 12
     },
     {
       "data": "09/08/2026",
@@ -226,7 +245,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/9e959940-f293-f111-8075-7c1e5285a3ef",
       "top8": true,
-      "n": 12
+      "n": 13
     },
     {
       "data": "08/08/2026",
@@ -245,7 +264,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/010dad15-2e93-f111-8075-000d3a2da5c0",
       "top8": true,
-      "n": 13
+      "n": 14
     },
     {
       "data": "26/07/2026",
@@ -264,7 +283,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/b76bfbb6-9189-f111-ab0f-7c1e524eabf7",
       "top8": false,
-      "n": 14
+      "n": 15
     },
     {
       "data": "25/07/2026",
@@ -283,7 +302,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/61d62f79-3c88-f111-ab0f-000d3a2da5c0",
       "top8": false,
-      "n": 15
+      "n": 16
     },
     {
       "data": "19/07/2026",
@@ -302,7 +321,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/23ea6491-7f83-f111-ab0f-000d3a4ccb50",
       "top8": true,
-      "n": 16
+      "n": 17
     },
     {
       "data": "11/07/2026",
@@ -321,7 +340,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/55a5c9c9-3a7d-f111-ab0e-000d3a213cad",
       "top8": true,
-      "n": 17
+      "n": 18
     },
     {
       "data": "09/07/2026",
@@ -340,7 +359,7 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/3acc248a-a97b-f111-ab0e-000d3a4cc9ea",
       "top8": false,
-      "n": 18
+      "n": 19
     },
     {
       "data": "28/06/2026",
@@ -359,25 +378,6 @@
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/d535a01b-0173-f111-ab0d-7ced8d5ad87d",
       "top8": false,
-      "n": 19
-    },
-    {
-      "data": "27/06/2026",
-      "gara": "WEEKLY BPER BANCA CUP - 4^ Prova",
-      "circolo": "MODENA",
-      "stbl": "35",
-      "ags": 100.0,
-      "pcc": 0.0,
-      "sd": 24.7,
-      "sd_est": null,
-      "cr": 72.2,
-      "sr": 127.0,
-      "idxV": 23.8,
-      "idxN": 24.1,
-      "var": 0.3,
-      "pending": false,
-      "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/f9f8037e-4072-f111-ab0e-6045bdf30a82",
-      "top8": false,
       "n": 20
     }
   ],
@@ -389,5 +389,5 @@
     "idx_fig": 23.3,
     "theoretical_idx": 23.3
   },
-  "updated_at": "12/10/2026 12:55"
+  "updated_at": "17/10/2026 13:43"
 }
