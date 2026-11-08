@@ -8,14 +8,14 @@
       "stbl": "32",
       "ags": 102.0,
       "pcc": 1.0,
-      "sd": null,
-      "sd_est": 25.6,
+      "sd": 25.6,
+      "sd_est": null,
       "cr": 72.2,
       "sr": 127.0,
       "idxV": 23.1,
-      "idxN": 23.1,
-      "var": 0.0,
-      "pending": true,
+      "idxN": 23.2,
+      "var": 0.1,
+      "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/fe0f564e-c6da-f111-84e8-6045bd89aa9a",
       "top8": false,
       "n": 1
@@ -177,7 +177,7 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/1f23f403-cab9-f111-aaae-000d3aa9a289",
-      "top8": false,
+      "top8": true,
       "n": 9
     },
     {
@@ -399,37 +399,17 @@
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/23ea6491-7f83-f111-ab0f-000d3a4ccb50",
       "top8": true,
       "n": 20
-    },
-    {
-      "data": "11/07/2026",
-      "buche": "18",
-      "gara": "WEGOLFERS PLAY TOUR",
-      "circolo": "MODENA",
-      "stbl": "37",
-      "ags": 99.0,
-      "pcc": 0.0,
-      "sd": 23.8,
-      "sd_est": null,
-      "cr": 72.2,
-      "sr": 127.0,
-      "idxV": 24.4,
-      "idxN": 24.1,
-      "var": -0.3,
-      "pending": false,
-      "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/55a5c9c9-3a7d-f111-ab0e-000d3a213cad",
-      "top8": true,
-      "n": 21
     }
   ],
   "stats": {
     "n_best8": 8,
-    "avg_sd": 23.1,
-    "avg_stbl": 36.2,
+    "avg_sd": 23.2,
+    "avg_stbl": 35.9,
     "best_sd": 20.3,
-    "idx_fig": 23.1,
-    "theoretical_idx": 23.1
+    "idx_fig": 23.2,
+    "theoretical_idx": 23.2
   },
-  "updated_at": "07/11/2026 23:50",
+  "updated_at": "08/11/2026 07:35",
   "hist": [
     {
       "d": "10/02/2021",
@@ -2008,6 +1988,12 @@
       "sd": 23.0,
       "iv": 23.3,
       "in": 23.1
+    },
+    {
+      "d": "07/11/2026",
+      "sd": 25.6,
+      "iv": 23.1,
+      "in": 23.2
     }
   ]
 }
