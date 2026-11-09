@@ -7,15 +7,15 @@
       "circolo": "MODENA",
       "stbl": "32",
       "ags": 102.0,
-      "pcc": null,
-      "sd": null,
-      "sd_est": 26.5,
+      "pcc": 1.0,
+      "sd": 25.6,
+      "sd_est": null,
       "cr": 72.2,
       "sr": 127.0,
       "idxV": 23.2,
-      "idxN": 23.2,
-      "var": 0.0,
-      "pending": true,
+      "idxN": 23.4,
+      "var": 0.2,
+      "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/2a09134f-8cdb-f111-84e8-3833c5c7b1fc",
       "top8": false,
       "n": 1
@@ -217,7 +217,7 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/4b5f6916-56b7-f111-aaac-000d3aa9a289",
-      "top8": false,
+      "top8": true,
       "n": 11
     },
     {
@@ -399,37 +399,17 @@
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/61d62f79-3c88-f111-ab0f-000d3a2da5c0",
       "top8": false,
       "n": 20
-    },
-    {
-      "data": "19/07/2026",
-      "buche": "18",
-      "gara": "1\u00b0 CHALLENGE EMILIA - ROMAGNA GOLF",
-      "circolo": "RIVIERA GOLF",
-      "stbl": "37",
-      "ags": 95.0,
-      "pcc": 0.0,
-      "sd": 23.1,
-      "sd_est": null,
-      "cr": 70.1,
-      "sr": 122.0,
-      "idxV": 24.1,
-      "idxN": 23.7,
-      "var": -0.4,
-      "pending": false,
-      "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/23ea6491-7f83-f111-ab0f-000d3a4ccb50",
-      "top8": true,
-      "n": 21
     }
   ],
   "stats": {
     "n_best8": 8,
-    "avg_sd": 23.2,
-    "avg_stbl": 35.9,
+    "avg_sd": 23.4,
+    "avg_stbl": 35.5,
     "best_sd": 20.3,
-    "idx_fig": 23.2,
-    "theoretical_idx": 23.2
+    "idx_fig": 23.4,
+    "theoretical_idx": 23.4
   },
-  "updated_at": "08/11/2026 15:55",
+  "updated_at": "09/11/2026 13:00",
   "hist": [
     {
       "d": "10/02/2021",
@@ -2014,6 +1994,12 @@
       "sd": 25.6,
       "iv": 23.1,
       "in": 23.2
+    },
+    {
+      "d": "08/11/2026",
+      "sd": 25.6,
+      "iv": 23.2,
+      "in": 23.4
     }
   ]
 }
